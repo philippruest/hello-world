@@ -1,2 +1,2 @@
 # hello-world
-test for rphi
+This is a test to learn how Github works. RPHI
